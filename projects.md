@@ -1,25 +1,17 @@
 # My Projects
 
-## 1. ResuMatch — Resume Analyzer
+## 1. ResuMatch – Resume Analysis Platform
 
-**Problem:** Students often struggle to evaluate their resumes against job requirements.
-
-**Solution:** A web application that analyses resumes and provides ATS-style scores and feedback.
-
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT.
-
-**My Contribution:** Developed user interface components and worked on backend APIs, authentication, and resume analysis features.
-
-**Possible Improvement:** Add advanced AI-based recommendations to improve resume quality.
+- **Problem:** Students struggle to identify gaps between their resumes and job descriptions.
+- **Solution:** Built a web application that analyses resumes and provides ATS-style matching feedback.
+- **Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB.
+- **My Contribution:** Developed the user interface and integrated backend APIs for resume analysis.
+- **Future Improvement:** Add AI-powered recommendations to improve resumes for specific job roles.
 
 ## 2. Smart Patient Health Monitoring System
 
-**Problem:** Manually monitoring patient temperature and heart rate can make it difficult to identify abnormal readings quickly.
-
-**Solution:** An IoT-based system that reads temperature and pulse sensor signals and provides alerts for abnormal readings.
-
-**Technologies:** ESP32, LM35, LM741 Op-Amps, analog pulse sensor, IoT.
-
-**My Contribution:** Worked on circuit design, signal conditioning, sensor interfacing, and alert functionality.
-
-**Possible Improvement:** Add cloud-based patient history and remote monitoring.
+- **Problem:** Manual monitoring makes it difficult to continuously track patient temperature and heart rate.
+- **Solution:** Designed an IoT-based system that reads sensor signals and alerts users when readings are outside normal limits.
+- **Technologies:** ESP32, LM35, LM741 op-amps, analog pulse sensor, Arduino IDE.
+- **My Contribution:** Worked on the sensor signal-conditioning circuit and microcontroller integration.
+- **Future Improvement:** Add a cloud dashboard for storing and viewing patient readings remotely.
